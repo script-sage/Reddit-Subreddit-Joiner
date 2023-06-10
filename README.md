@@ -1,6 +1,6 @@
 # Reddit Subreddit Joiner
 
-This Python script allows you to extract subreddits starting with "r/" from an input file and join those subreddits using the PRAW library. It provides a convenient way to automate the process of subscribing to multiple subreddits on Reddit.
+This Python script allows you to automate the process of subscribing to multiple subreddits on Reddit at once with one click using the PRAW Library.
 
 ## Prerequisites
 
