@@ -48,7 +48,9 @@ Before using this script, you need to have the following:
     password = "your_password"
     ```
 
-5. Execute the script by running the following command:
+5. Open the 'input.txt' file and paste all the subreddits even it is a whole website containing names of r/ subreddits, it will automatically extract subreddits from that list.
+
+6. Execute the script by running the following command:
 
     ```bash
     python reddit_joiner.py
@@ -57,6 +59,8 @@ Before using this script, you need to have the following:
    The script will automatically generate a list of subreddits starting with "r/" from a set of random words and join them using your Reddit API credentials. You will see the output indicating successful join or any errors that occurred during the process.
 
 That's it! You can now easily automate joining multiple subreddits on Reddit using this script.
+
+NOTE : If it found any non-existing subreddit it will ignore those subreddit names and continue to the next subreddits
 
 ## License
 
