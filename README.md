@@ -21,6 +21,7 @@ Before using this script, you need to have the following:
     4. Set the "About URL" and "Redirect URI" fields to any valid URL, as they are not necessary for script-type apps.
     5. Click on the "Create app" button.
     6. On the next page, you will find your client ID and client secret. Take note of these values as they will be needed later.
+    ![Example](https://i.imgur.com/dT5YExB.jpg)
 
 ## Usage
 
